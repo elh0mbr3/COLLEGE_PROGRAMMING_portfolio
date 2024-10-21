@@ -1,1 +1,1 @@
-This is a college project that consist of a code developed to demonstrate a list of game objects that can be modified by a user.
+This is my portfolio full of my programming projects from the RUTC college I am studying in.
